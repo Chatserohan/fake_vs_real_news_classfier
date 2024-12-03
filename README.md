@@ -156,6 +156,6 @@ fake_news_detection/
 1. **Dataset:**
    Ensure you have the correct dataset (`train.csv`) to train the models. If you're using a custom dataset, you may need to adjust the code accordingly.
 
-   **Project BY**
-   Rohan chatse(Data scientists)
-
+**Project BY**
+Rohan chatse(Data scientists)
+Email: rohancrchatse@gmail.com
